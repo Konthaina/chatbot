@@ -4,8 +4,6 @@
 	<img src="assets/icon.svg" alt="AngkorScience Chatbot" width="120" />
 </p>
 
-- [English](README.md) | [ខ្មែរ](README.km.md)
-
 A simple Gradio-based chat interface that uses Google's Generative AI (Gemini) to answer questions about AngkorScience.
 
 This repository contains a minimal example which wires a Gemini model into a Gradio `ChatInterface` and exposes a web UI for interactive conversations.
